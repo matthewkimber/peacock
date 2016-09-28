@@ -1,2 +1,2 @@
-# peacock
-Static Swagger description generator.
+# Peacock
+Swagger API description generator for .NET projects.
